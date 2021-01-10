@@ -1,5 +1,5 @@
 {
-  "name": "module-1",
+  "name": "@laix/module-1",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -11,5 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "querystring": "^0.2.0"
-  }
+  },
+  "gitHead": "cb2f9db657ebd80ab0f49fa89ad5cddcd51f57b0"
 }
