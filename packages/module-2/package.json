@@ -1,5 +1,5 @@
 {
-  "name": "@laxi/module-2",
+  "name": "@laix/module-2",
   "version": "0.0.2",
   "description": "",
   "main": "index.js",
@@ -15,5 +15,5 @@
   "devDependencies": {
     "axios": "^0.21.1"
   },
-  "gitHead": "cb2f9db657ebd80ab0f49fa89ad5cddcd51f57b0"
+  "gitHead": "028186ba926aa53face24f88eab735ec44290372"
 }
