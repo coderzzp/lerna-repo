@@ -2,6 +2,11 @@
   "name": "root",
   "private": true,
   "devDependencies": {
+    "axios": "^0.21.1",
     "lerna": "^3.22.1"
+  },
+  "dependencies": {
+    "@laix/module-1": "file:packages/module-1",
+    "@laix/module-2": "file:packages/module-2"
   }
 }

@@ -10,10 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "module-1": "^0.0.1"
-  },
-  "devDependencies": {
-    "axios": "^0.21.1"
+    "@laix/module-1": "file:../module-1",
+    "axios": "^0.21.1",
+    "koa": "^2.13.1"
   },
   "gitHead": "028186ba926aa53face24f88eab735ec44290372"
 }
